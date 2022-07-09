@@ -1,1 +1,1 @@
-# DNA-structure-comparison
+# DNA structure comparison
